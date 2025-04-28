@@ -1,0 +1,4 @@
+Marca:BMW, Model:Seria 3(2015), Locuri:5, Motorizare:2.0L, Benzina, Rezervat:Nu
+Marca:Mercedes, Model:Vito(2018), Locuri:9, Motorizare:2.1L, 190 HP, Diesel, Rezervat:Nu
+Marca:Volkswagen, Model:Golf R(2018), Locuri:4, Motorizare:2.0L, 300 HP, Benzina, Rezervat:Da
+Marca:Audi, Model:A8(2018), Locuri:5, Motorizare:3.0L, 250 HP, Benzina, Rezervat:Nu
